@@ -26,3 +26,4 @@ ruby sig.rb
 - http://localhost:4567/500x300?background-color=f0f
 - http://localhost:4567/300x200?background-color=f0f&color=f00
 - http://localhost:4567/200x200?font=osaka&background-color=f0f&color=f00
+- http://localhost:4567/200x200?font=osaka&text=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%82%E5%85%A5%E5%8A%9B%E5%8F%AF%E8%83%BD%E3%81%A7%E3%81%99
